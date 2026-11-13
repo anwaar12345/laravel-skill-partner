@@ -143,7 +143,7 @@ This setting is **mandatory** for the skill to work:
 
 ### Step 3: Download the Repo
 
-1. Go to this GitHub repo: `https://github.com/YOUR_USERNAME/senior-laravel-partner`
+1. Go to this GitHub repo: `https://github.com/anwaar12345/laravel-skill-partner`
 2. Click the green **"Code"** button (top right of the page).
 3. Select **"Download ZIP"** from the dropdown.
 4. The ZIP file will download to your computer:
@@ -153,4 +153,4 @@ This setting is **mandatory** for the skill to work:
 
 **The file will be named something like:**
 ```text
-senior-laravel-partner-main.zip
+laravel-skill-partner.zip
