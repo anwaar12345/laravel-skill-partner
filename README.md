@@ -18,16 +18,6 @@ A Claude skill for every Laravel developer. Drop it into Claude, and it acts as 
 - [The 5 Roles It Plays](#-the-5-roles-it-plays)
 - [What It Won't Do](#-what-it-wont-do-by-design)
 - [Installation Guide](#-installation-guide)
-- [How to Use (Step-by-Step for Beginners)](#-how-to-use-step-by-step-for-beginners)
-- [Quick Demo](#-quick-demo)
-- [Common Problems & Solutions](#-common-problems--solutions)
-- [Summary Table](#-summary-table)
-- [Requirements](#️-requirements)
-- [Reference Files](#-reference-files)
-- [Customization](#-customization)
-- [Author](#-author)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
