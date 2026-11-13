@@ -4,8 +4,11 @@
 
 A Claude skill for every Laravel developer. Drop it into Claude, and it acts as a **Senior Engineer, Lead Architect, DB Expert, QA Lead, and Product Owner** — all at once. It reads your existing code first, follows your conventions, and never over-engineers.
 
-**Author:** [Syed Anwar Ahmed Shah](https://pk.linkedin.com/in/syed-anwar-ahmed-shah-2aa16a190)
+## 👨‍💻 Author
 
+**Syed Anwar Ahmed Shah**
+- LinkedIn: [Syed-Anwar-Ahmed-Shah](https://pk.linkedin.com/in/syed-anwar-ahmed-shah-2aa16a190)
+- GitHub: [Syed-Anwar-Ahmed-Shah](https://github.com/anwaar12345)
 ---
 
 ## 📖 Table of Contents
